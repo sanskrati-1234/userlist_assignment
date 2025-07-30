@@ -69,6 +69,8 @@ npm run dev
 
 - **Frontend:** React, TypeScript, react-hook-form, Zod, react-toastify, CSS Modules, Vite
 - **Backend:** Node.js, Express
+- **Real Time Connection:** Socket.io
+  
 
 ## Folder Details
 
